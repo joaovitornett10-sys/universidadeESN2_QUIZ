@@ -7,7 +7,7 @@ public class Questao {
     String opcaoC = "";
     String opcaoD = "";
     String opcaoE = "";
-    String correta = "";
+    String correta = "":
 
     public boolean isCorreta(String resposta){
         if(resposta.equalsIgnoreCase(this.correta)){
